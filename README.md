@@ -26,7 +26,8 @@ Customer Demographics: Segments customers by age, gender, income, and tracks the
 ## Project Structure
 The repository is organized as follows:
 
-'''Maven-Cafe-Rewards-Challenge/
+```
+Maven-Cafe-Rewards-Challenge/
 ├── data/
 │   ├── raw/                    # Folder containing raw data files
 │   │   ├── offers.csv
@@ -41,7 +42,7 @@ The repository is organized as follows:
 ├── dashboards/
 │   └── MavenCafeRewards.pbix   # Power BI dashboard file
 └── README.md                   # Project description and instructions
-'''
+```
 
 
 ## Getting Started
