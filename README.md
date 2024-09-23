@@ -64,7 +64,7 @@ Filtering relevant data.
 
 Creating additional columns for analysis.
 
-Dashboard Insights
+## Dashboard Insights
 
 The Power BI dashboard provides a visual summary of the customer behavior and offer effectiveness:
 
